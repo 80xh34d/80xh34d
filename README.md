@@ -1,4 +1,6 @@
 <!--
+**80xh34d/80xh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Hello, world! 🌏
 ### I'm Boxhead!
 - 🐍 I'm an intermediate Python developer looking for a challenge :]
@@ -13,7 +15,7 @@
 -->
 
 
-`80xh34d.json`
+`./80xh34d.json`
 ```json
 {
   "80xh34d": {
@@ -32,24 +34,13 @@
     ],
     "projects": [
       "Discord moderation bot",
-      "Discord token protector",
+      "Discord utilities (wip)",
       "Chromium password recovery"
+    ],
+    "dislikes": [
+      "Skids",
+      "Skid enablers"
     ]
   }
 }
 ```
-
-<!--
-**80xh34d/80xh34d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
