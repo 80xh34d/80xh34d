@@ -35,7 +35,8 @@
     "projects": [
       "Discord moderation bot",
       "Discord utilities (wip)",
-      "Chromium password recovery"
+      "Chromium password recovery",
+      "Ethereal grabber"
     ],
     "dislikes": [
       "Skids",
