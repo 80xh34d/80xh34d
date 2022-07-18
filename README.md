@@ -37,10 +37,6 @@
       "Discord utilities (wip)",
       "Chromium password recovery",
       "Ethereal grabber"
-    ],
-    "dislikes": [
-      "Skids",
-      "Skid enablers"
     ]
   }
 }
