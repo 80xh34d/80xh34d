@@ -23,24 +23,26 @@
 
 <h3 align="center"> Feel free to DM me at <ins>boxhead#4466</ins> on <a href="https://discord.com/users/604855154365300753">Discord</a>! </h3>
 
+<h3 align="center"> I follow Discord's <a href="https://dis.gd/guidelines">Community Guidelines</a> and <a href="https://dis.gd/tos">Terms of Service</a>. </h3>
+
 ## 80xh34d's GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=80xh34d&include_all_commits=true&count_private=true&show_icons=true&border_radius=30&cache_seconds=1800&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=80xh34d&include_all_commits=true&count_private=true&show_icons=true&locale=en&border_radius=30&cache_seconds=1800&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=80xh34d&layout=compact&langs_count=10&border_radius=30&cache_seconds=1800&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=80xh34d&layout=compact&langs_count=10&locale=en&border_radius=30&cache_seconds=1800&theme=cobalt" />
 </a>
 
 
 ## Popular Repositories
 <a href="https://github.com/80xh34d/discord-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=80xh34d&repo=discord-tools&show_owner=true&border_radius=30&cache_seconds=1800&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=80xh34d&repo=discord-tools&show_owner=true&locale=en&border_radius=30&cache_seconds=1800&theme=cobalt" />
 </a>
 <a href="https://github.com/80xh34d/ethereal-grabber">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=80xh34d&repo=Ethereal-Grabber&show_owner=true&border_radius=30&cache_seconds=1800&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=80xh34d&repo=Ethereal-Grabber&show_owner=true&locale=en&border_radius=30&cache_seconds=1800&theme=cobalt" />
 </a>
 
-
+<!--
 `./80xh34d.json`
 ```json
 {
@@ -67,3 +69,4 @@
   }
 }
 ```
+-->
